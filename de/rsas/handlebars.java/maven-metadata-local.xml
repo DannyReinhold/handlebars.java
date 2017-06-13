@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.rsas</groupId>
+  <artifactId>handlebars.java</artifactId>
+  <versioning>
+    <versions>
+      <version>4.0.7-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170613153846</lastUpdated>
+  </versioning>
+</metadata>
